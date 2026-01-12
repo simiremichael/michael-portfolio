@@ -9,7 +9,7 @@ export default function Portfolio() {
       description:
         "A large-scale real estate marketing platform with web (Next.js) and mobile (React Native) apps, plus a custom Express backend.",
       tech: ["Next.js", "React Native", "Express", "MongoDB", "AWS"],
-      link: "https://residencespotter.com",
+      link: "https://www.residencespotter.com",
       featured: true,
     },
     {
@@ -17,7 +17,7 @@ export default function Portfolio() {
       description:
         "A service marketplace platform built with React Router v7 (Remix-style architecture).",
       tech: ["React", "React Router v7", "Node.js"],
-      link: "https://servicehub.com",
+      link: "https://www.servixhub.com",
       featured: true,
     },
     {
@@ -25,21 +25,21 @@ export default function Portfolio() {
       description:
         "A driver safety and education platform focused on road safety awareness in Nigeria.",
       tech: ["NuxtJS", "Vue"],
-      link: "https://betadriver.com.ng",
+      link: "https://www.betadriver.com.ng",
     },
     {
       name: "Araxel",
       description:
         "An AI-enabled eCommerce platform built with Next.js.",
       tech: ["Next.js", "AI", "Node.js"],
-      link: "https://araxel.com",
+      link: "https://www.araxel.com",
     },
     {
       name: "Amour Zanzibar",
       description:
         "A tourism and hospitality website built with Svelte for performance and elegance.",
       tech: ["Svelte"],
-      link: "https://amourzanzibar.com",
+      link: "https://www.amourzanzibar.com",
     },
   ];
 
