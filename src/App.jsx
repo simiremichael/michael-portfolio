@@ -32,7 +32,7 @@ export default function Portfolio() {
       description:
         "An AI-enabled eCommerce platform built with Next.js.",
       tech: ["Next.js", "AI", "Node.js"],
-      link: "https://www.araxel.com",
+      link: "https://www.araxel.ng",
     },
     {
       name: "Amour Zanzibar",
